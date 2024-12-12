@@ -5,7 +5,7 @@ Al click del bottone, la lampadina dovrà accendersi (dovremo quindi utilizzare 
 
 
 // DOM elements
-const imgLampElm = document.getElementById("lamp");
+const imgLampElm = document.getElementById("lampOff");
 const buttonElm = document.getElementById("btn");
 
 // DOM events
